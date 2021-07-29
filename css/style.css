@@ -14,6 +14,9 @@
 }
 
 /* Happy clint style */
+.clint-color{
+    color:hsla(22, 77%, 58%, 1) ;
+}
 .clint-pic img{
     width: 149px;
     height: 149px;
@@ -28,4 +31,8 @@
 .far{font-size:20px ;
     color:hsla(22, 77%, 58%, 1) ;
     margin: 1px;
+}
+/* Frequent asked */
+.question-color{
+    color:hsla(22, 77%, 58%, 1) ;
 }
