@@ -5,6 +5,27 @@
     background-color: hsla(12, 76%, 61%, 1);
     width: 150px;
 }
+/* Future bilke style */
 .bikes-sm-headline{
     color:  #E76F51;
+}
+.gray-img img{
+    filter: grayscale(100%);
+}
+
+/* Happy clint style */
+.clint-pic img{
+    width: 149px;
+    height: 149px;
+    border-radius: 50%; 
+}
+.fas{
+    font-size:20px ;
+    width: 30px;
+    color: hsla(22, 77%, 58%, 1);
+    
+}
+.far{font-size:20px ;
+    color:hsla(22, 77%, 58%, 1) ;
+    margin: 1px;
 }
